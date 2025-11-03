@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-dotenv
+passlib
+pyjwt
+sqlalchemy
+psycopg2-binary
+pydantic-settings
+openai
+stripe
+razorpay
+requests
+fastapi-limiter
+redis
+alembic
